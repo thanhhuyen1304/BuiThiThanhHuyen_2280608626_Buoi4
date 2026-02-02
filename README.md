@@ -1,1 +1,3 @@
-# BuiThiThanhHuyen_2280608626_Buoi4
+# Họ và tên: BuiThiThanhHuyen
+# MSSV: 2280608626
+# LớpL 22DTHA6
